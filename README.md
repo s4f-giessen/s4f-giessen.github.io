@@ -1,6 +1,6 @@
 # Scientists for future, Gießen
 
-![s4f_giessen_logo](s4f-giessen-logo.png)
+![s4f_giessen_logo](/s4f-giessen-logo.png)
 
 #### Die Scientists for Future Gießen unterstützen die „Fridays for Future“-Bewegung (FFF) der Schülerinnen und Schüler mit Fakten und Legitimation
 
